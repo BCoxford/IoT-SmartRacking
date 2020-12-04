@@ -19,3 +19,11 @@
 1. https://learn.adafruit.com/monochrome-oled-breakouts/python-wiring
 2. https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/python-setup
 
+### Other Tutorials and Documentation
+
+1. https://www.chartjs.org/docs/latest/
+2. https://reactjs.org/docs/getting-started.html
+
+### Interfacing with the HX711 in Python
+
+1. https://github.com/gandalf15/HX711
