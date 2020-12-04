@@ -10,24 +10,25 @@
 
 ### Python Updates and CircuitPython
 
-'''
+```
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install python3-pil
 sudo apt-get install libgpiod2
 pip3 install RPI.GPIO
-'''
+```
 
 ### HX711 Framework
-''' pip3 install HX711 '''
+
+``` pip3 install HX711 ```
 
 ### Adafruit Frameworks
 
-'''
+```
 pip3 install adafruit-blinka
 pip3 install adafruit-circuitpython-ssd1306
 pip3 install adafruit-circuitpython-dht
-'''
+```
 
 ## Useful Information
 
